@@ -1,0 +1,41 @@
+
+= issue 20220316
+
+== Only name used file
+
+* assignee : Nicholas Prado
+* status : closed
+* priority : medium
+
+The current dos-batch script slowly checks all the folders and lists everything it finds so it can choose which beycube jar to launch.
+Make this faster and cut down on the noise of jars it isn't choosing.
+
+////
+== comments
+
+=== yyMMdd hhMM zzz
+
+comment author : 
+
+comment_here
+////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

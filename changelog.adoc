@@ -1,0 +1,28 @@
+
+= beycube_jarlauncher Changelog
+
+////
+
+== Unreleased
+== [.] - 20-0-
+
+=== Added
+
+* 
+
+=== Changed
+
+* 
+
+=== Removed
+
+* 
+
+////
+
+== [1.0] - 2022-03-16
+
+=== Added
+
+* java class-file for launching the latest beycube jar on windows
+

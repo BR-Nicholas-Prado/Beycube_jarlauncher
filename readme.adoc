@@ -1,0 +1,62 @@
+
+= beycube_jarlauncher
+
+== Purpose
+
+Launches the latest beycube jar in our office folder structure.
+
+== License
+
+beycube_jarlauncher is released under the terms of the Mozilla Public license v2.
+
+== Run
+
+java -jar cp_bey_jarlauncher-1.0.jar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
