@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/opt/br/ashpinex/windowmanager-i3/scripts/linux-shell/i3-launcher.sh /media/microworx-deliveries/data/bey `ls /media/microworx-deliveries/data/bey/releases/*/*.jar -at | grep "RELEASE" | head -n1` config/default.json i-ssues
+Name=Restart Issue tracking
+Icon=/opt/br/ashpinex/filemanager-dolphin/images/workflo.ico
