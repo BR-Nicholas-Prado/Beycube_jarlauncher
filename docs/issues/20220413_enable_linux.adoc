@@ -1,0 +1,41 @@
+
+= issue 20220413
+
+== Enable linux
+
+* assignee : Nicholas
+* status : to do
+* priority : low
+
+Only able to launch beycube jar on windows. We also use linux.
+Enable that.
+
+////
+== comments
+
+=== yyMMdd hhMM zzz
+
+comment author : 
+
+comment_here
+////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
